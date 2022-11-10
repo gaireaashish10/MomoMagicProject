@@ -1,1 +1,4 @@
-# MomoMagicProject
+Restaurant
+==========
+
+A template for Restaurant business
